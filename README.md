@@ -1,6 +1,6 @@
 # Spit Bawlin
 
-Being a student of a full-time Full Stack Coding Bootcamp can be overwhelming. Everything feels new, exciting, and strange. The resources are endless. Spit Bawlin' is developed as a personalized user 'bulletin board' that's a one-stop shop for coding bootcamp students. Features include the ability to write and save notes, where to lookup nearby coffee shops to study/work on coursework, and a resources feature to store links and other useful information.
+Being a student of a full-time Full Stack Coding Bootcamp can be overwhelming. Everything feels new, exciting, and strange. The resources are endless. Spit Bawlin' is designed as a personalized user 'bulletin board' that's a one-stop shop for coding bootcamp students. Features include the ability to write and save notes, where to lookup nearby coffee shops to study/work on coursework, and a resources feature to store links and other useful information.
 
 ## Getting Started
 
